@@ -15,7 +15,7 @@
 usePouchDB is a collection of React Hooks to access data in a PouchDB database from React components.
 
 The goal of usePouchDB is to ease the use of PouchDB with React. Enabling developers to create
-[offline first apps](http://hood.ie/blog/say-hello-to-offline-first.html).
+[offline first apps](http://hood.ie/blog/say-hello-to-offline-first.html](https://web.archive.org/web/20210420014747/http://hood.ie/blog/say-hello-to-offline-first.html).
 
 ## Quick-start
 
